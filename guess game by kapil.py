@@ -19,3 +19,5 @@ while guess_number != answer:
             print("please guess higher")
         else:
             print("please guess lower")
+
+print(answer)
